@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kogop
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Scala
+- 🌱 I’m currently learning C++, HTML, CSS, JS, python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ???.
 
